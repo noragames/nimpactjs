@@ -2,7 +2,7 @@
 
 Free plugins for ImpactJS game development by Nora Games
 
-## NoraImpactJSとは？
+### NoraImpactJSとは？
 
 ゲームエンジンImpactJSの野良ライブラリ。マルチプラットフォーム書き出し対応。axios API通信対応(予定)。
 
@@ -20,8 +20,8 @@ Free plugins for ImpactJS game development by Nora Games
 - `Entity`'s wrapper class
 
 ### Button
-- You can make tweeet button as well
-- タップ検知機。重ね表示、ツイート可
+- You can make tweet button as well
+- タップ検知機。重ね表示、ツイート可。
 DEMO: http://noragames.com/html5/button/
 
 ### Drag
