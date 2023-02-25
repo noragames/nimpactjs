@@ -1,13 +1,18 @@
 # NoraImpactJS
-Free plugins for ImpactJS game development by Nora Games
----
-## What is NoraImpactJS?
 
-NoraImpactJSとは、ゲームエンジンImpactJSの野良ライブラリ。マルチプラットフォーム書き出し対応。axios API通信対応(予定)。
+Free plugins for ImpactJS game development by Nora Games
+
+## NoraImpactJSとは？
+
+ゲームエンジンImpactJSの野良ライブラリ。マルチプラットフォーム書き出し対応。axios API通信対応(予定)。
+
 ---
+
 ## Release Note
 - 2023/03/06 Ver. 1.0
+
 ---
+
 ## Documentation
 
 
@@ -59,6 +64,8 @@ DEMO: http://noragames.com/html5/house/
 
 ### Axios
 - API管理クラス(未着手)
+ 
 ---
+
 ## 開発方針
 - 追記予定
