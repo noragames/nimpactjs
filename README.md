@@ -1,8 +1,8 @@
-# NoraImpactJS
+# NimpactJS
 
 ゲームエンジンImpactJSの野良ライブラリ。マルチプラットフォーム書き出し対応。axios API通信対応(予定)。
 
-### What is NoraImpactJS?
+### What is NimpactJS?
 
 Free plugins for ImpactJS game development by Nora Games
 
@@ -44,6 +44,9 @@ DEMO: http://noragames.com/html5/gauge/
 
 ### Typewriter
 - 流れる文字列出力機能(コールバック未完成)
+
+### KeyPad
+- 全角と英数が打てるバーチャルパッド
 
 ### VirtualGri
 - Spaceless movement control
