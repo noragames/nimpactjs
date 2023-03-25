@@ -9,7 +9,7 @@ Free plugins for ImpactJS game development by Nora Games
 ---
 
 ## Release Note
-- 2023/03/06 nimpactjs.com is ready
+- 2023/03/06 <a href="http://nimpactjs.com">nimpactjs.com</a> is ready
 - 2023/05/29 Hopefully Ver. 1.0
 
 ---
