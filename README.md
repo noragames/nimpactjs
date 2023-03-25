@@ -2,6 +2,8 @@
 
 ゲームエンジンImpactJSの野良ライブラリ。マルチプラットフォーム書き出し対応。axios API通信対応(予定)。
 
+<img src="http://noragame.com/images/github/nimpactjs.png" alt="NimpactJS" />
+
 ### What is NimpactJS?
 
 Free plugins for ImpactJS game development by Nora Games
@@ -68,6 +70,8 @@ DEMO: http://noragames.com/html5/gauge/
 ### KeyPad (開発中)
 - The subclass of `Group`
 - 全角と英数が打てるバーチャルパッド
+- 
+<img src="http://noragame.com/images/github/keypad.gif" alt="KeyPad" />
 
 ### Textarea
 - The subclass of `Button`
