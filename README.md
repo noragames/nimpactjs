@@ -16,30 +16,29 @@ Free plugins for ImpactJS game development by Nora Games
 
 ## Documentation
 
-
 ### Sprite
 - `Entity`'s wrapper class
--__alpha__: 透過値 (0 to 1)
--__visible__: 表示するかどうか (Boolean)
--__top__: 天面の座標 (Number)
--__bottom__: 底辺の座標 (Number)
--__left__: 左辺の座標 (Number)
--__right__: 右辺の座標 (Number)
+- __alpha__: 透過値 (0 to 1)
+- __visible__: 表示するかどうか (Boolean)
+- __top__: 天面の座標 (Number)
+- __bottom__: 底辺の座標 (Number)
+- __left__: 左辺の座標 (Number)
+- __right__: 右辺の座標 (Number)
 
 ### Button
 - The subclass of `Sprite`
 - You can make tweet button as well
 - タップ検知機。重ね表示、ツイート可。
--__onMouseOver__: The pressing event handler of the area (Function)
--__onMOuseOUt__: The pressing event handler of the area (Function)
--__onPress__: The pressing event handler of the area (Function)
--__onPressing__: The pressing event handler of the area (Function)
--__onPress__: The pressing event handler of the area (Function)
--__onRelease__: The pressing event handler of the area (Function)
--__onReleaseOut__: The pressing event handler of the area (Function)
--__onDragOver__: The pressing event handler of the area (Function)
--__onDragOut__: The pressing event handler of the area (Function)
--__onDrop__: The pressing event handler of the area (Function)
+- __onMouseOver__: The event handler executed when the mouse if over (Function)
+- __onMouseOUt__: The event handler executed when the mouse if out (Function)
+- __onPress__: The event handler executed when the button is pressed (Function)
+- __onPressing__: The event handler executed while pressing (Function)
+- __onPressingOver__: The event handler executed when the __pressed__ mouse is over (Function)
+- __onRelease__: The event handler when the button is released (Function)
+- __onReleaseOut__: The event handler when the button is released __outside__ (Function)
+- __onDragOver__: The event handler when some dragged object is over (Function)
+- __onDragOut__: The event handler when some dragged object is out (Function)
+- __onDrop__: The event handler when some dragged object is dropped (Function)
 DEMO: http://noragames.com/html5/button/
 
 ### Drag
@@ -80,10 +79,12 @@ DEMO: http://noragames.com/html5/gauge/
 DEMO: http://noragames.com/html5/house/
 
 ### Dice
+- The subclass of `Button`
 - The class returns random number 1 to 6
 - 1～6のランダムな数値を返すクラス
 - 
 ### Card
+- The subclass of `Button`
 - めくったり引いたり出したりできる汎用カードクラス
 
 ### Group
@@ -91,6 +92,7 @@ DEMO: http://noragames.com/html5/house/
 - Entityグループ化機能
 
 ### Title
+- The subclass of `Button`
 - ロゴとタイトル画面の抽象クラス(未着手)
 
 ### Hud
