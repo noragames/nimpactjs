@@ -10,7 +10,7 @@ Free plugins for ImpactJS game development by Nora Games
 
 ## Release Note
 - 2023/03/06 nimpactjs.com is ready
-- 2023/05/29 Hoplefully Ver. 1.0
+- 2023/05/29 Hopefully Ver. 1.0
 
 ---
 
@@ -19,11 +19,19 @@ Free plugins for ImpactJS game development by Nora Games
 
 ### Sprite
 - `Entity`'s wrapper class
-#### alpha: 透過値(0～1)
+#### alpha: 透過値 (0 to 1)
+#### visible: 表示するかどうか (Boolean)
+#### top: 天面の座標 (代入可)
+#### bottom: 底辺の座標 (代入可)
+#### left: 左辺の座標 (代入可)
+#### right: 右辺の座標 (代入可)
 
 ### Button
+- The subclass of `Sprite`
 - You can make tweet button as well
+#### onPress: The pressing event handler of the area
 - タップ検知機。重ね表示、ツイート可。
+#### onPress: その領域を押したときに発火する関数
 DEMO: http://noragames.com/html5/button/
 
 ### Drag
@@ -38,6 +46,7 @@ DEMO: http://noragames.com/html5/inventory/
 DEMO: http://noragames.com/html5/gauge/
 
 ### MonospacedFont
+- The subclass of `Button`
 - 等幅フォントクラス
 
 ### ConverterSjis
