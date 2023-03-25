@@ -20,18 +20,18 @@ Free plugins for ImpactJS game development by Nora Games
 ### Sprite
 - `Entity`'s wrapper class
 #### alpha: 透過値 (0 to 1)
-#### visible: 表示するかどうか (Boolean)
-#### top: 天面の座標 (代入可)
-#### bottom: 底辺の座標 (代入可)
-#### left: 左辺の座標 (代入可)
-#### right: 右辺の座標 (代入可)
+*visible*: 表示するかどうか (Boolean)
+*top*: 天面の座標 (Number)
+*bottom*: 底辺の座標 (Number)
+*left*: 左辺の座標 (Number)
+*right*: 右辺の座標 (Number)
 
 ### Button
 - The subclass of `Sprite`
 - You can make tweet button as well
-#### onPress: The pressing event handler of the area
 - タップ検知機。重ね表示、ツイート可。
-#### onPress: その領域を押したときに発火する関数
+*onPress*: The pressing event handler of the area (Function)
+*onPress*: その領域を押したときに発火する関数 (Function)
 DEMO: http://noragames.com/html5/button/
 
 ### Drag
