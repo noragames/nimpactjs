@@ -2,7 +2,7 @@
 
 ゲームエンジンImpactJSの野良ライブラリ。マルチプラットフォーム書き出し対応。axios API通信対応(予定)。
 
-<img src="http://noragame.com/images/github/nimpactjs.png" alt="NimpactJS" />
+<img src="http://noragame.com/images/github/nimpactjs240x240.png" alt="NimpactJS" />
 
 ### What is NimpactJS?
 
