@@ -27,8 +27,8 @@ Free plugins for ImpactJS game development by Nora Games
 
 ### Button
 - The subclass of `Sprite`
-- You can make tweet button as well
 - タップ検知機。重ね表示、ツイート可。
+- You can make tweet button as well
 - __onMouseOver__: The event handler executed when the mouse if over (Function)
 - __onMouseOUt__: The event handler executed when the mouse if out (Function)
 - __onPress__: The event handler executed when the button is pressed (Function)
