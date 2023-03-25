@@ -39,6 +39,7 @@ Free plugins for ImpactJS game development by Nora Games
 - __onDragOver__: The event handler when some dragged object is over (Function)
 - __onDragOut__: The event handler when some dragged object is out (Function)
 - __onDrop__: The event handler when some dragged object is dropped (Function)
+
 DEMO: http://noragames.com/html5/button/
 
 ### Drag
