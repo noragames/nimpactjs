@@ -36,11 +36,11 @@ Free plugins for ImpactJS game development by Nora Games
 - __onPress__: The event handler executed when the button is pressed (Function)
 - __onPressing__: The event handler executed while pressing (Function)
 - __onPressingOver__: The event handler executed when the __*pressed*__ mouse is over (Function)
-- __onRelease__: The event handler when the button is released (Function)
-- __onReleaseOut__: The event handler when the button is released __*outside*__ (Function)
-- __onDragOver__: The event handler when some dragged object is over (Function)
-- __onDragOut__: The event handler when some dragged object is out (Function)
-- __onDrop__: The event handler when some dragged object is dropped (Function)
+- __onRelease__: The event handler executed when the button is released (Function)
+- __onReleaseOut__: The event handler executed when the button is released __*outside*__ (Function)
+- __onDragOver__: The event handler executed when some dragged object is over (Function)
+- __onDragOut__: The event handler executed when some dragged object is out (Function)
+- __onDrop__: The event handler executed when some dragged object is dropped (Function)
 
 DEMO: http://noragames.com/html5/button/
 
@@ -51,7 +51,7 @@ DEMO: http://noragames.com/html5/button/
 
 ### Drop
 - ドロップ対象が収まる受け皿
-- __onChange__: The event handler when the drop target is changed
+- __onChange__: The event handler executed when the drop target is changed
 
 DEMO: http://noragames.com/html5/inventory/
 
@@ -95,7 +95,7 @@ DEMO: http://noragames.com/html5/house/
 
 ### Dice
 - The subclass of `Button`
-- The class returns random number 1 to 6
+- The class returns random number 1 to 6 with the pixel art by <a href="https://twitter.com/noragames">Nora Games</a>
 - 1～6のランダムな数値を返すクラス
 <img src="http://noragames.com/images/github/dice32x32.png" alt="Dice Sprites" />
 
