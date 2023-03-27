@@ -53,6 +53,7 @@ DEMO: http://noragames.com/html5/inventory/
 
 ### Gauge
 - ゲージ機能
+
 DEMO: http://noragames.com/html5/gauge/
 
 ### MonospacedFont
@@ -77,7 +78,7 @@ DEMO: http://noragames.com/html5/gauge/
 - The subclass of `Button`
 - KeyPadと連動するテキスト表示領域
 
-### VirtualGri
+### VirtualGrip
 - The subclass of `Button`
 - Spaceless movement control
 - トップビュー用バーチャルグリップ
