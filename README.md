@@ -19,7 +19,7 @@ Free plugins for ImpactJS game development by Nora Games
 ## Documentation
 
 ### Sprite
-- `Entity`'s wrapper class
+- The wrapper class of `Entity` 
 - __alpha__: 透過値 (0 to 1)
 - __visible__: 表示するかどうか (Boolean)
 - __top__: 天面の座標 (Number)
