@@ -35,9 +35,9 @@ Free plugins for ImpactJS game development by Nora Games
 - __onMouseOUt__: The event handler executed when the mouse if out (Function)
 - __onPress__: The event handler executed when the button is pressed (Function)
 - __onPressing__: The event handler executed while pressing (Function)
-- __onPressingOver__: The event handler executed when the __pressed__ mouse is over (Function)
+- __onPressingOver__: The event handler executed when the __*pressed*__ mouse is over (Function)
 - __onRelease__: The event handler when the button is released (Function)
-- __onReleaseOut__: The event handler when the button is released __outside__ (Function)
+- __onReleaseOut__: The event handler when the button is released __*outside*__ (Function)
 - __onDragOver__: The event handler when some dragged object is over (Function)
 - __onDragOut__: The event handler when some dragged object is out (Function)
 - __onDrop__: The event handler when some dragged object is dropped (Function)
@@ -46,6 +46,8 @@ DEMO: http://noragames.com/html5/button/
 
 ### Drag
 - ドラッグアンドドロップ機能
+- __show__: `Entity`を表示する関数 (Entity)
+- __hide__: 描画物の非表示化
 
 ### Drop
 - ドロップ対象が収まる受け皿
