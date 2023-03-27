@@ -51,12 +51,13 @@ DEMO: http://noragames.com/html5/button/
 
 ### Drop
 - ドロップ対象が収まる受け皿
+- __onChange__: The event handler when the drop target is changed
 DEMO: http://noragames.com/html5/inventory/
 
 ### Gauge
 - ゲージ機能
-- __DrawBar__: The function to draw the bar of the gauge ( tile, percent )
-- __DrawEnd__: The function to draw the end of the gauge ( tile, direction )
+- __drawBar__: The function to draw the bar of the gauge ( tile, percent )
+- __drawEnd__: The function to draw the end of the gauge ( tile, direction )
 
 DEMO: http://noragames.com/html5/gauge/
 
