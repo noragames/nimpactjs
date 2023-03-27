@@ -46,8 +46,8 @@ DEMO: http://noragames.com/html5/button/
 
 ### Drag
 - ドラッグアンドドロップ機能
-- __show__: `Entity`を表示する関数 (Entity)
-- __hide__: 描画物の非表示化
+- __show__: ドラッグ対象を表示する関数 (Entity)
+- __hide__: ドラッグ対象の非表示化
 
 ### Drop
 - ドロップ対象が収まる受け皿
@@ -96,7 +96,7 @@ DEMO: http://noragames.com/html5/house/
 ### Dice
 - The subclass of `Button`
 - The class returns random number 1 to 6 with the pixel art by <a href="https://twitter.com/noragames">Nora Games</a>
-- <a href="https://twitter.com/noragames">Nora Games</a>謹製のドット絵と共に1～6のランダムな数値を返すクラス
+- <a href="https://twitter.com/noragames">ノラゲームズ</a>謹製のドット絵と共に1～6のランダムな数値を返すクラス
 <img src="http://noragames.com/images/github/dice32x32.png" alt="Dice Sprites" />
 
 ### Card
