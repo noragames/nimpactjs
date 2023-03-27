@@ -53,6 +53,8 @@ DEMO: http://noragames.com/html5/inventory/
 
 ### Gauge
 - ゲージ機能
+- __DrawBar__: The function to draw the bar of the gauge ( tile, percent )
+- __DrawEnd__: The function to draw the end of the gauge ( tile, direction )
 
 DEMO: http://noragames.com/html5/gauge/
 
