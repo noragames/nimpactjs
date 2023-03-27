@@ -88,7 +88,8 @@ DEMO: http://noragames.com/html5/house/
 - The subclass of `Button`
 - The class returns random number 1 to 6
 - 1～6のランダムな数値を返すクラス
-- 
+<img src="http://noragames.com/images/github/dice32x32.png" alt="Dice Sprites" />
+
 ### Card
 - The subclass of `Button`
 - めくったり引いたり出したりできる汎用カードクラス
