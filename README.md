@@ -52,6 +52,7 @@ DEMO: http://noragames.com/html5/button/
 ### Drop
 - ドロップ対象が収まる受け皿
 - __onChange__: The event handler when the drop target is changed
+
 DEMO: http://noragames.com/html5/inventory/
 
 ### Gauge
@@ -89,6 +90,7 @@ DEMO: http://noragames.com/html5/gauge/
 - The subclass of `Button`
 - Spaceless movement control
 - トップビュー用バーチャルグリップ
+
 DEMO: http://noragames.com/html5/house/
 
 ### Dice
