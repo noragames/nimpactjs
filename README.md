@@ -96,7 +96,7 @@ DEMO: http://noragames.com/html5/house/
 ### Dice
 - The subclass of `Button`
 - The class returns random number 1 to 6 with the pixel art by <a href="https://twitter.com/noragames">Nora Games</a>
-- 1～6のランダムな数値を返すクラス
+- <a href="https://twitter.com/noragames">Nora Games</a>謹製のドット絵と共に1～6のランダムな数値を返すクラス
 <img src="http://noragames.com/images/github/dice32x32.png" alt="Dice Sprites" />
 
 ### Card
