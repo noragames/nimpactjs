@@ -90,6 +90,8 @@ DEMO: http://noragames.com/html5/gauge/
 - The subclass of `Button`
 - Spaceless movement control
 - トップビュー用バーチャルグリップ
+- __lineWidth__: The param of line spacing (Number)
+- __maxRadius__: The param of max radius (Number)
 
 DEMO: http://noragames.com/html5/house/
 
