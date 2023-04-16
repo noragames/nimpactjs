@@ -82,6 +82,8 @@ DEMO: http://noragames.com/html5/gauge/
 
 <img src="http://noragames.com/images/github/keypad.gif" alt="KeyPad" />
 
+DEMO: http://noragames.com/html5/key-pad/
+
 ### Textarea
 - The subclass of `Button`
 - KeyPadと連動するテキスト表示領域
