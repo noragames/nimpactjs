@@ -78,9 +78,9 @@ DEMO: http://noragames.com/html5/gauge/
 
 ### KeyPad
 - The subclass of `Group`
+- 全角と英数が打てるバーチャルパッド
 - __isEnglishFirst__: 初期状態で表示するキーが英語かどうか (Boolean)
 - __inputTarget__: 入力を反映する対象 (Textarea)
-- 全角と英数が打てるバーチャルパッド
 
 <img src="http://noragames.com/images/github/keypad.gif" alt="KeyPad" />
 
