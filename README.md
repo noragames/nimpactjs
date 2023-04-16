@@ -76,8 +76,10 @@ DEMO: http://noragames.com/html5/gauge/
 - The subclass of `Button`
 - 流れる文字列出力機能
 
-### KeyPad (開発中)
+### KeyPad
 - The subclass of `Group`
+- __isEnglishFirst__: 初期状態で表示するキーが英語かどうか (Boolean)
+- __inputTarget__: 入力を反映する対象 (Textarea)
 - 全角と英数が打てるバーチャルパッド
 
 <img src="http://noragames.com/images/github/keypad.gif" alt="KeyPad" />
@@ -101,7 +103,7 @@ DEMO: http://noragames.com/html5/house/
 ### Dice
 - The subclass of `Button`
 - The class returns random number 1 to 6 with the free pixel art drawn by Nora
-- 無料で提供するドット絵と共に1～6のランダムな数値を返すクラス
+- 無償で提供するドット絵と共に1～6のランダムな数値を返すクラス
 <img src="http://noragames.com/images/github/dice32x32.png" alt="Dice Sprites" />
 
 ### Card
