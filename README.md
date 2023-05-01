@@ -94,15 +94,15 @@ DEMO: http://noragames.com/html5/key-pad/
 - The subclass of `Button`
 - Spaceless movement control
 - トップビュー用バーチャルグリップ
-- __color__: The param of the color ("#******")
-- __lineWidth__: The param of line width (Number)
-- __maxRadius__: The param of max radius (Number)
+- __color__: The param of the color ( "#******" )
+- __lineWidth__: The param of line width ( Number )
+- __maxRadius__: The param of max radius ( Number )
 
 DEMO: http://noragames.com/html5/house/
 
 ### Fade
-- __in__: フェードインを実現する関数 ( Number )
-- __out__: フェードアウトを実現する関数 ( Number )
+- __in__: フェードインを実現する関数 ( Number = 0.5, Function = null )
+- __out__: フェードアウトを実現する関数 ( Number = 0.5, Function = null )
 
 ### Dice
 - The subclass of `Button`
