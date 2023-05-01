@@ -100,6 +100,10 @@ DEMO: http://noragames.com/html5/key-pad/
 
 DEMO: http://noragames.com/html5/house/
 
+### Fade
+- __in__: フェードインを実現する関数 ( Number )
+- __out__: フェードアウトを実現する関数 ( Number )
+
 ### Dice
 - The subclass of `Button`
 - The class returns random number 1 to 6 with the free pixel art drawn by Nora
