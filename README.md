@@ -78,6 +78,7 @@ DEMO: http://noragames.com/html5/gauge/
 
 ### KeyPad
 - The subclass of `Group`
+- It's not the subclass 0f `Entity` so create the instance as `new` simply.
 - 全角と英数が打てるバーチャルパッド
 - __isEnglishFirst__: 初期状態で表示するキーが英語かどうか (Boolean)
 - __inputTarget__: 入力を反映する対象 (Textarea)
