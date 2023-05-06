@@ -74,6 +74,7 @@ DEMO: http://noragames.com/html5/gauge/
 
 ### Typewriter
 - The subclass of `Button`
+- __setValues__: It accepts strings and functions ( Array )
 - 流れる文字列出力機能
 
 ### KeyPad
@@ -119,15 +120,8 @@ DEMO: http://noragames.com/html5/house/
 - Entity Grouping class
 - Entityグループ化機能
 
-### Title
-- The subclass of `Button`
-- ロゴとタイトル画面の抽象クラス(未着手)
-
 ### Hud
 - 画面上部の帯、ハド(head up display)の抽象クラス
-
-### Audio
-- ロック機能などを完備した`Sound`の管理クラス(未着手)
 
 ### Axios
 - API管理クラス(未着手)
