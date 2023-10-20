@@ -62,6 +62,11 @@ DEMO: http://noragames.com/html5/inventory/
 
 DEMO: http://noragames.com/html5/gauge/
 
+### NinePatch
+- 9-patch機能
+
+DEMO: http://noragames.com/html5/9-patch/
+
 ### MonospacedFont
 - The subclass of `Button`
 - 等幅フォントクラス
@@ -115,6 +120,11 @@ DEMO: http://noragames.com/html5/house/
 ### Card
 - The subclass of `Button`
 - めくったり引いたり出したりできる汎用カードクラス
+
+### Camera
+- Camera following specific entity
+- 特定のエンティティを追尾するカメラ
+- __isFixed__: { x: false, y: false } // 固定する軸
 
 ### Group
 - Entity Grouping class
